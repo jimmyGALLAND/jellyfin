@@ -3,7 +3,7 @@
     "supportsSubScores": false,
     "ratings": [
         {
-            "ratingStrings": ["0+", "Public Averti", "Tous Publics", "TP", "U"],
+            "ratingStrings": ["0+", "Tous Publics", "TP"],
             "ratingScore": {
                 "score": 0,
                 "subScore": null
@@ -30,6 +30,13 @@
                 "subScore": null
             }
         },
+        {
+            "ratingStrings": ["Public Averti", "U"],
+            "ratingScore": {
+                "score": 12,
+                "subScore": null
+            }
+        },        
         {
             "ratingStrings": ["12"],
             "ratingScore": {
